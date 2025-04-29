@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/IO1v49p.png" alt="Capa do perfil" width="100%" />
+<img src="https://i.imgur.com/sjPmjoh.png" alt="Capa do perfil" width="100%" />
 
 <!-- Título -->
 <p align="center">
