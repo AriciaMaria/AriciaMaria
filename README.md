@@ -3,6 +3,8 @@
   <img src="https://i.imgur.com/0nr41Xz.png" width="400px" />
 </p>
 
+---
+
 <p align="center">Desenvolvedora em formação | Explorando o universo do front-end e QA</p>
 
 ---
