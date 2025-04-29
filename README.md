@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/IO1v49p.png" alt="Capa do perfil" width="100%" />
+
 <!-- Título -->
 <p align="center">
   <img src="https://i.imgur.com/5dohZ2U.png" width="400px" />
