@@ -1,4 +1,52 @@
-## Hi there 👋
+<!-- Título -->
+<h1 align="center">Olá, eu sou Arícia Maria!</h1>
+
+<p align="center">Desenvolvedora em formação | Explorando o universo do front-end e QA</p>
+
+---
+
+### **Habilidades**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+### **Ferramentas**
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AriciaMaria&show_icons=true&theme=radical&title_color=FF9AA2&icon_color=FFB7B2&text_color=ffffff&bg_color=ffffff00"/>
+</p>
+
+---
+
+### **Linguagens mais usadas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriciaMaria&layout=compact&theme=radical&title_color=FF9AA2&text_color=ffffff&bg_color=ffffff00"/>
+</p>
+
+---
+
+### **Redes Sociais**
+<p align="center">
+  <a href="https://www.linkedin.com/in/aricia-maria-qa"><img src="https://img.shields.io/badge/LinkedIn-FF9AA2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ari.emis"><img src="https://img.shields.io/badge/Instagram-FFB7B2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:ariciamsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC3A0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 <!--
 **AriciaMaria/AriciaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
