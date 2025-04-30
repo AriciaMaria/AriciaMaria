@@ -7,11 +7,23 @@
 
 ---
 
-<p align="center">Desenvolvedora em formação | Explorando o universo do front-end e QA</p>
+![Visitantes](https://komarev.com/ghpvc/?username=AriciaMaria&label=Visitantes&color=ffb6b6&style=flat)
+<p align="center">Desenvolvedora em formação | Explorando o universo do Front-End e QA </p>
 
 ---
 
-### **Habilidades**
+### **⭐ Sobre mim**
+<p>💫 Iniciei minha jornada no Desenvolvimento de Software com Front-End e Web Design.</p>
+<p>☀️ Atualmente estou mais focada em aprender mais sobre Desenvolvimento Web e Ciência de Dados.</p>
+<p>🌙 Estou cursando desenvolvimento full stack e ampliando meus conhecimentos em programação.</p>
+<p>🌟 Tenho experiência prática com projetos em HTML, CSS, JavaScrip e estou estudando Java e QA. </p>
+<p>☁️ Pergunte-me sobre Desenvolvimento Front-End, Testes de Software, HTML, CSS e JavaScript!</p>
+<p>🌜 Tenho grande interesse em IA, Aprendizado de Máquina, Desenvolvimento de Jogos, Data Science e Automomação.</p>
+<p>💛 Perfeccionista de carteirinha: Busco sempre a evolução e gosto das coisas feitas com carinho e perfeição!</p>
+
+---
+
+### **📚 Habilidades**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -21,7 +33,7 @@
 
 ---
 
-### **Ferramentas**
+### **💻 Ferramentas**
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -31,21 +43,18 @@
 
 ---
 
-### **GitHub Stats**
+### **⚡ GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriciaMaria&show_icons=true&theme=radical&title_color=FF9AA2&icon_color=FFB7B2&text_color=ffffff&bg_color=ffffff00"/>
 </p>
 
----
-
-### **Linguagens mais usadas**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriciaMaria&layout=compact&theme=radical&title_color=FF9AA2&text_color=ffffff&bg_color=ffffff00"/>
 </p>
 
 ---
 
-### **Redes Sociais**
+### **✨ Redes Sociais**
 <p align="center">
   <a href="https://www.linkedin.com/in/aricia-maria-qa"><img src="https://img.shields.io/badge/LinkedIn-FF9AA2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/ari.emis"><img src="https://img.shields.io/badge/Instagram-FFB7B2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
