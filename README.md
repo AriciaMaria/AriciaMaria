@@ -68,7 +68,7 @@
 
 ### **✨ Redes Sociais:**
 <p align="center">
-  <a href="https://www.linkedin.com/in/aricia-maria-qa"><img src="https://img.shields.io/badge/LinkedIn-FF9AA2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ariciamaria"><img src="https://img.shields.io/badge/LinkedIn-FF9AA2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/ari.emis"><img src="https://img.shields.io/badge/Instagram-FFB7B2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:ariciamsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC3A0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
