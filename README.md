@@ -20,7 +20,7 @@
       entendendo a base do desenvolvimento web e me apaixonando pelo processo.
 - ☀️ Curiosa por natureza, adoro endenter como as coisas funcionam e sempre busco aprender com atenção aos detalhes 
 - 🌟 Experiência prática com projetos em HTML, CSS, JavaScript, estudando Java.   
-- 🌜 Interesses: IA, Machine Learning, Desenvolvimento de Jogos, Data Science e Automação.  
+- 🌜 Interesses: IA, UX/UI, Desenvolvimento de Jogos, Design e Automoção.  
 - 💛 Perfeccionista de carteirinha: amo fazer tudo com carinho e atenção aos detalhes!
 
     </td>
