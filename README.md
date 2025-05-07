@@ -5,7 +5,7 @@
 ---
 
 ![Visitantes](https://komarev.com/ghpvc/?username=AriciaMaria&label=Visitantes&color=ffb6b6&style=flat)
-<p align="center">Desenvolvedora em formação | Explorando o universo do Front-End e QA </p>
+<p align="center">Desenvolvedora Front-End em formação.</p>
 
 ---
 
@@ -15,11 +15,11 @@
   <tr>
     <td>
       
-- 💫 Iniciei minha jornada no Desenvolvimento de Software com Front-End e Web Design.  
-- ☀️ Atualmente estou focada em aprender mais sobre Desenvolvimento Web e Ciência de Dados.  
-- 🌙 Estou cursando desenvolvimento full stack e ampliando meus conhecimentos em programação.  
-- 🌟 Experiência prática com projetos em HTML, CSS, JavaScript, estudando Java e QA.  
-- ☁️ Pergunte-me sobre Front-End, Testes de Software, HTML, CSS e JavaScript!  
+- 💫 Iniciei minha jornada no Desenvolvimento de Software com Front-End e Web Design.
+- 🌙 Atualmente estou aprendendo HTML, CSS E JavaScript — construindo projetos práticos,
+      entendendo a base do desenvolvimento web e me apaixonando pelo processo.
+- ☀️ Curiosa por natureza, adoro endenter como as coisas funcionam e sempre busco aprender com atenção aos detalhes 
+- 🌟 Experiência prática com projetos em HTML, CSS, JavaScript, estudando Java.   
 - 🌜 Interesses: IA, Machine Learning, Desenvolvimento de Jogos, Data Science e Automação.  
 - 💛 Perfeccionista de carteirinha: amo fazer tudo com carinho e atenção aos detalhes!
 
