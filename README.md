@@ -18,7 +18,7 @@
 - 💫 Iniciei minha jornada no Desenvolvimento de Software com Front-End e Web Design.
 - 🌙 Atualmente estou aprendendo HTML, CSS E JavaScript — construindo projetos práticos,
       entendendo a base do desenvolvimento web e me apaixonando pelo processo.
-- ☀️ Curiosa por natureza, adoro endenter como as coisas funcionam e sempre busco aprender com atenção aos detalhes 
+- ☀️ Curiosa por natureza, adoro entender como as coisas funcionam e sempre busco aprender com atenção aos detalhes 
 - 🌟 Experiência prática com projetos em HTML, CSS, JavaScript, estudando Java.   
 - 🌜 Interesses: IA, UX/UI, Desenvolvimento de Jogos, Design e Automoção.  
 - 💛 Perfeccionista de carteirinha: amo fazer tudo com carinho e atenção aos detalhes!
